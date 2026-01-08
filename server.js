@@ -23,6 +23,7 @@ app.use(cors({
       'http://localhost:5173',
       'https://eventbackend-blond.vercel.app',
       'https://eventmanagementfrontend-orcin.vercel.app',
+      "https://eventfrontend-nine.vercel.app"
     ];
     
     // Allow all Vercel deployments
